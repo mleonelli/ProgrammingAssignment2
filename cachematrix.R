@@ -6,7 +6,7 @@
 ## makeCacheMatrix is initialized with a matrix and
 ## provides functions to cache the result of finding
 ## the inverse of that matrix.
-## set: sets the stored matrix x and 
+## set: sets the stored matrix x
 ## get: returns the stored matrix x
 ## setInverse: caches the inverse of the matrix x
 ## getInverse: returns the cached inverse of the matrix x
